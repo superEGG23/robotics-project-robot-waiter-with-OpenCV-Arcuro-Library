@@ -1,0 +1,1 @@
+the control script > OpenCV Arcuro recognition and coordination control with python . sends http request to the esp32 to control the movements according to the Arcuro coordination based on ir Remote inputs implemented using Ir remote library 
